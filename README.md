@@ -1,4 +1,4 @@
-<h1 align="center">⬜ kapiw0n / novice developer ⬜</h1>
+<h1 align="center">⬜ kapiw0n / novice dev </h1>
 
 ###
 
